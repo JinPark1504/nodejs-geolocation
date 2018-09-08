@@ -1,0 +1,124 @@
+[
+   {
+      "number": "bx123",
+      "info": [
+         {
+            "timestamp": 1536077876120,
+            "location": {
+               "address": "18 Scott St, Niagara-on-the-Lake, ON L0S 1J0, Canada",
+               "latitude": 43.1997066,
+               "longitude": -79.19977159999999
+            },
+            "weather": {
+               "summary": "Partly Cloudy",
+               "temperature": 81.01,
+               "humidity": 0.7,
+               "windSpeed": 3.26,
+               "uvIndex": 6,
+               "visibility": 10
+            }
+         },
+         {
+            "timestamp": 1536078075553,
+            "location": {
+               "address": "18 Scott St, Niagara-on-the-Lake, ON L0S 1J0, Canada",
+               "latitude": 43.1997066,
+               "longitude": -79.19977159999999
+            },
+            "weather": {
+               "summary": "Partly Cloudy",
+               "temperature": 81.17,
+               "humidity": 0.7,
+               "windSpeed": 3.26,
+               "uvIndex": 6,
+               "visibility": 10
+            }
+         },
+         {
+            "timestamp": 1536078411578,
+            "location": {
+               "address": "18 Scott St, Niagara-on-the-Lake, ON L0S 1J0, Canada",
+               "latitude": 43.1997066,
+               "longitude": -79.19977159999999
+            },
+            "weather": {
+               "summary": "Partly Cloudy",
+               "temperature": 81.45,
+               "humidity": 0.69,
+               "windSpeed": 3.26,
+               "uvIndex": 6,
+               "visibility": 10
+            }
+         },
+         {
+            "timestamp": 1536403944567,
+            "location": {
+               "address": "18 Scott St, Niagara-on-the-Lake, ON L0S 1J0, Canada",
+               "latitude": 43.1997066,
+               "longitude": -79.19977159999999
+            },
+            "weather": {
+               "summary": "Partly Cloudy",
+               "temperature": 62.79,
+               "humidity": 0.68,
+               "windSpeed": 13.79,
+               "uvIndex": 0,
+               "visibility": 10
+            }
+         },
+         {
+            "timestamp": 1536404451853,
+            "location": {
+               "address": "18 Scott St, Niagara-on-the-Lake, ON L0S 1J0, Canada",
+               "latitude": 43.1997066,
+               "longitude": -79.19977159999999
+            },
+            "weather": {
+               "summary": "Partly Cloudy",
+               "temperature": 62.78,
+               "humidity": 0.68,
+               "windSpeed": 13.91,
+               "uvIndex": 0,
+               "visibility": 10
+            }
+         },
+         {
+            "timestamp": 1536404548789,
+            "location": {
+               "address": "18 Scott St, Niagara-on-the-Lake, ON L0S 1J0, Canada",
+               "latitude": 43.1997066,
+               "longitude": -79.19977159999999
+            },
+            "weather": {
+               "summary": "Partly Cloudy",
+               "temperature": 62.81,
+               "humidity": 0.68,
+               "windSpeed": 13.96,
+               "uvIndex": 0,
+               "visibility": 10
+            }
+         }
+      ]
+   },
+   {
+      "number": "bx124",
+      "info": [
+         {
+            "timestamp": 1536078472489,
+            "location": {
+               "address": "Berkley Dr, St. Catharines, ON L2M, Canada",
+               "latitude": 43.1838265,
+               "longitude": -79.20842650000002
+            },
+            "weather": {
+               "summary": "Partly Cloudy",
+               "temperature": 81.51,
+               "humidity": 0.69,
+               "windSpeed": 3.27,
+               "uvIndex": 6,
+               "visibility": 10
+            }
+         }
+      ]
+   }
+]
